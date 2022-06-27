@@ -9,7 +9,7 @@ import Foundation
 
 struct MoModel {
     
-    var name: String?
+    var name: String = "Test"
     
     
 }
